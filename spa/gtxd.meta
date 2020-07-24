@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+	<Item>
+      <parent>spa1</parent>
+      <child>spa</child>
+    </Item>
+    <Item>
+      <parent>spa2</parent>
+      <child>spa1</child>
+    </Item>
+  </txdRelationships>
+</CMapParentTxds>
