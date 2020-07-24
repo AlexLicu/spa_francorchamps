@@ -5,6 +5,8 @@ This Belgian circuit of Spa Francorchamps is converted and edited for GTA V by G
 
 I only fixed "Poly edge" & "Physics validation failed" errors for all props, split textures so each .ytd is under 16mb to stream properly on FiveM and compiled everything in one resource.
 
+The circuit is located in the top right corner of the map.
+
 Installation:
   1) Copy the "spa" folder to the resources folder of your FXserver.
   2) Edit your server.cfg file and include "start spa" to your resources list.
